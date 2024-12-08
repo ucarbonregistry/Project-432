@@ -20,13 +20,6 @@ Sectoral scopes 01 Energy industries (Renewable/Non-Renewable
 Sources)
 13 Waste handling and disposal
 
-Estimated amount of GHG emission reductions for
-this monitoring period in the registered PCN
-2020: 6290 CoUs (6290 tCO2eq)
-2021: 73109 CoUs (73109 tCO2eq)
-2022: 93247 CoUs (93247 tCO2eq)
-2023: 132044 CoUs (132044 tCO2eq)
-Total: 304690 CoUs (304690 tCO2eq)
 _______________
 The project, RDF based Power Generation Plant is located in Jawahar Nagar Village, MedchalMalkajgiri District, Telangana State, INDIA.
 Municipal Solid Waste (MSW) to Electricity Generation is one of the major waste-to-energy
@@ -53,3 +46,31 @@ running of plant.
 The power plant has a condensing steam turbo generator with travelling grate boiler of firing fuels,
 resulting in efficient burning of RDF.
 _______________
+Issue Date: 08/12/2024
+
+qty issued: 304690
+____________
+Serial Number: 0001-000001-006290-UCR-CoU-IN-432-20082020-31122020
+
+Vintage Year: 2020
+
+Quantity: 6290
+____________
+Serial Number: 0001-006291-079399-UCR-CoU-IN-432-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 73109
+__________
+Serial Number: 0001-079400-172646-UCR-CoU-IN-432-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 93247
+___________
+Serial Number: 0001-172647-304690-UCR-CoU-IN-432-01012023-30062023
+
+Vintage Year: 2023
+
+Quantity: 132044
+__________
